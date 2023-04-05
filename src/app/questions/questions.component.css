@@ -1,0 +1,12 @@
+body{
+    background-color: #D8BADE;
+    color: black;
+}
+
+button{
+    background-color: #4C1158;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+}
